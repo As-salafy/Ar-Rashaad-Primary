@@ -1,0 +1,27 @@
+/* .navbar-brand{
+    font-size: x-large;
+    
+} */
+
+.text-center {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-light-rgb), var(--bs-text-opacity)) !important;
+}
+body {
+    text-shadow: darkgray;
+}
+
+.footer{
+    bottom: 0;
+    
+}
+
+.table{
+    color: gray;
+    
+}
+.logo {
+    width: 10%;
+    margin-left: 10px;
+    height: 65px;
+}
